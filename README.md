@@ -1,6 +1,8 @@
 # react-native-keyboardAvoidingView
 
-![demo](https://github.com/ritzblogs/react-native-keyboardAvoidingView/blob/master/keyboardavoiding.png)  
+<p align="center">
+  <img width="300" height="600" src="https://github.com/ritzblogs/react-native-keyboardAvoidingView/blob/master/keyboardavoiding.png">
+</p>
 
 ## Install at local
 Open Terminal, then type command:  
