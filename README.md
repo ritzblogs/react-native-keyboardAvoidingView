@@ -4,6 +4,9 @@
   <img width="300" height="600" src="https://github.com/ritzblogs/react-native-keyboardAvoidingView/blob/master/keyboardavoiding.png">
 </p>
 
+Find detailed description https://abodeofmystories.blogspot.com/2020/06/keyboardavoidingview-example-in-react.html
+
+
 ## Install at local
 Open Terminal, then type command:  
 > git clone  https://github.com/ritzblogs/react-native-keyboardAvoidingView.git
@@ -30,5 +33,4 @@ Or if you want to run at iOS simulator, run:
 If you have error message like `Execution failed for task ':app:dexDebug'.` run this on your terminal :  
 > npm run android-clean
 
-Find detailed description https://abodeofmystories.blogspot.com/2020/06/keyboardavoidingview-example-in-react.html
 
